@@ -54,6 +54,104 @@
     margin-left: 15px;
 }
 
+iframe{
+    height: 450px;
+    width: 900px;
+    margin-top: 10px;
+}
 
+.title{
+    font-size: 30px;
+}
 
+.view-section{
+    margin-top: 10px;
+}
 
+.fa-thumbs-down,
+.fa-share{
+    margin-left: 35px;
+}
+
+.fa-thumbs-up{
+    margin-left: 350px;
+}
+
+.conatainer{
+    display: flex;
+}
+
+.profile-pic{
+    height: 50px;
+    border: 5x solid #555;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.subscriber{
+    display: flex;
+}
+
+.channel-name{
+    margin-top: 9px;
+}
+
+.subscriber-btn{
+    background-color: red;
+    border-radius: 14px;
+    text-align: center;
+    margin: 10px 10px;
+    padding : 10px 10px;
+    margin-left: 590px;
+    color: white;
+}
+
+.show-more{
+    margin-left: 80px;
+    font-size: 15px;
+}
+
+.left-side{
+    margin-left: 25px;
+}
+
+.left-section{
+    display: flex;
+}
+
+.left-section iframe{
+    height: 100px;
+    width: 200px
+}
+
+.left-head{
+    padding: 10px 10px;
+}
+
+.comments-up{
+    display: flex;
+    font-size: 20px;
+}
+
+.fa-sliders{
+    margin: 3px 3px 0 20px;
+    
+}
+
+.one-comment{
+    display: flex;
+    margin-top: 8px;
+}
+
+.comment-name{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    padding: 10px 15px;
+    border-radius: 50%;
+}
+
+.comment-desc{
+    margin-top: 10px;
+    margin-left: 5px;
+}
